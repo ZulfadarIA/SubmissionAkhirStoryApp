@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">The StoryApp</string>
+    <string name="welcome">Welcome to Story App</string>
+    <string name="loginButton">Login</string>
+    <string name="belum_punya_akun">Belum punya akun? |</string>
+    <string name="sign_up_sekarang">Sign up sekarang!</string>
+    <string name="buat_akun_baru">Buat akun baru</string>
+    <string name="registerButton">Daftar</string>
+    <string name="sudah_punya_akun">Sudah punya akun? |</string>
+    <string name="login_sekarang">Login sekarang!</string>
+    <string name="foto">Foto</string>
+    <string name="logout">Logout</string>
+    <string name="nama">Nama</string>
+    <string name="description">Description</string>
+    <string name="result_photo">Result photo</string>
+    <string name="gallery">Galeri</string>
+    <string name="upload">Unggah</string>
+    <string name="input_image_first">Masukkan gambar lebih dulu!</string>
+    <string name="desc_empty_error">Isi deskripsi lebih dulu!</string>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>

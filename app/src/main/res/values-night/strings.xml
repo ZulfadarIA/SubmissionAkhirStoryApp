@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="registerButton">Daftar</string>
+    <string name="login_sekarang">Login sekarang!</string>
+    <string name="foto">Foto</string>
+    <string name="nama">Nama</string>
+    <string name="description">Description</string>
+    <string name="result_photo">Result photo</string>
+    <string name="gallery">Galeri</string>
+    <string name="upload">Unggah</string>
+</resources>
